@@ -1,0 +1,29 @@
+/*
+1. * - This selector targets all elements on the page 
+2. margin: 0; - Removes the default margin from all elements 
+3. padding: 0; - Removes the default padding from all elements.
+4. box-sizing: border-box; - Ensures that padding and border widths are included in the element's total width and height
+5. text-description - none; - Removes any text decoration (like underlines) from all elements.
+6. background: transparent; - Sets the background of all elements to be transparent.
+
+1. background: rgb(30,30,30);: Sets the background color of the body to a dark gray.
+2. color: white;: Sets the text color within the body to white.
+3. overflow: hidden;: Hides any content that overflows the body element (horizontally).
+4. overflow-y: scroll;: Adds a vertical scrollbar to the body, even if it isn't needed.
+*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    background: transparent;
+    font-family: 'Poppin', sans-serif;
+}
+
+body {
+    background: rgb(30,30,30);
+    color: white;
+    overflow: hidden;
+    overflow-y: scroll; 
+}

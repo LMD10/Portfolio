@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.ed6aa834.css",
+    "main.js": "/Portfolio/static/js/main.ce8c6dd1.js",
+    "static/media/True_Work_Image.png": "/Portfolio/static/media/True_Work_Image.052a3c5f47b8e6fee884.png",
+    "static/media/Profile_Pic.png": "/Portfolio/static/media/Profile_Pic.8a3297aa7a698a2ce30d.png",
+    "static/media/debug.png": "/Portfolio/static/media/debug.88ad93070e7898f4b2cf.png",
+    "static/media/databases.png": "/Portfolio/static/media/databases.8878d003aeaa86982190.png",
+    "static/media/cracking.png": "/Portfolio/static/media/cracking.45c136ce5cc02c7114e2.png",
+    "static/media/cryptography.png": "/Portfolio/static/media/cryptography.1fa2edcfc35a130360bd.png",
+    "static/media/code.png": "/Portfolio/static/media/code.a58da249128de85beb41.png",
+    "static/media/cog.png": "/Portfolio/static/media/cog.606dc6ca0ece1138beef.png",
+    "static/media/app-dev.png": "/Portfolio/static/media/app-dev.c22df478e3efd1786755.png",
+    "static/media/operating-system.png": "/Portfolio/static/media/operating-system.ca0e9784ead9c6c64989.png",
+    "static/media/Menu_Icon.png": "/Portfolio/static/media/Menu_Icon.42ddbd249d353c0f5fe8.png",
+    "static/media/security.png": "/Portfolio/static/media/security.acfeab2f349868cae04d.png",
+    "static/media/linked_in.png": "/Portfolio/static/media/linked_in.63b96b9ea7fdfd7a5ee0.png",
+    "static/media/Shark.png": "/Portfolio/static/media/Shark.b2e6e2c66a87fabed5ff.png",
+    "static/media/instagram.png": "/Portfolio/static/media/instagram.0bcd1dcb7d853c327af7.png",
+    "index.html": "/Portfolio/index.html",
+    "main.ed6aa834.css.map": "/Portfolio/static/css/main.ed6aa834.css.map",
+    "main.ce8c6dd1.js.map": "/Portfolio/static/js/main.ce8c6dd1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed6aa834.css",
+    "static/js/main.ce8c6dd1.js"
+  ]
+}
